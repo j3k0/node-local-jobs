@@ -2,6 +2,12 @@
 
 Prevents running the same job multiple times, on the same worker.
 
+## Install
+
+```sh
+npm install local-jobs
+```
+
 ## Usage
 
 ```js
